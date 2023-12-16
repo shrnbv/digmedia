@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+#head1{
+    background-color: rgb(223, 220, 220);
+    height: 60px;
+} 
+.logo{
+    margin-left: 50px;
+    margin-top: 25px;
+    float: left;
+}
+#nav1 li{
+    display: inline-block;
+    padding-right: 35px;
+    padding-top: 30px;
+    background-color: white;
+    height: 90px;
+    
+}
+.li1{
+    margin-left: 599px;
+}
+.but1{
+    padding: 10px 10px 10px 10px;
+    background-color: transparent;
+    border-radius: 25px;
+    color: blue;
+    border-color: blue;
+}
